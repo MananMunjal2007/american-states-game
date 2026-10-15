@@ -1,3 +1,3 @@
-streamlit
-plotly
-pandas
+streamlit==1.50.0
+plotly==6.3.1
+pandas==2.3.3
